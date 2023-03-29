@@ -1,1 +1,1 @@
-# DatabaseTest
+MyTestVar=705095
